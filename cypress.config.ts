@@ -22,7 +22,6 @@ export default defineConfig({
         }
       })
       return config
-    },
-    reporter: 'mochawesome'
+    }
   },
 });
